@@ -4,7 +4,7 @@
 //
 //  Created by priyanshu sahu on 18/09/26.
 //
-
+// QuickCartDomain 1.0.1
 public struct Product: Identifiable, Sendable {
     public let id: Int
     public let name: String
